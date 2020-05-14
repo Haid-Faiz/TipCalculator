@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="text_ONname">I am On</string>
+    <string name="text_OFFname">I am Off</string>
+</resources>
